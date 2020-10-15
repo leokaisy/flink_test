@@ -1,4 +1,4 @@
-package com.ng.bigdata.day01_flinck_cases
+package com.ng.bigdata._01_flinck_cases
 
 import org.apache.flink.streaming.api.scala.{DataStream, StreamExecutionEnvironment}
 import org.apache.flink.streaming.api.windowing.time.Time

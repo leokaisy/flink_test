@@ -1,4 +1,4 @@
-package com.ng.bigdata.day01_flinck_cases
+package com.ng.bigdata._01_flinck_cases
 
 import org.apache.flink.api.java.utils.ParameterTool
 import org.apache.flink.api.scala.{DataSet, ExecutionEnvironment}

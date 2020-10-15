@@ -1,4 +1,4 @@
-package com.ng.bigdata.day02_flinck_api
+package com.ng.bigdata._02_flinck_api
 
 import java.util.Properties
 
